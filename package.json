@@ -1,0 +1,27 @@
+{
+  "name": "socketio-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebopshoobop/socketio-react.git"
+  },
+  "author": "Will Timpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebopshoobop/socketio-react/issues"
+  },
+  "homepage": "https://github.com/thebopshoobop/socketio-react#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.0",
+    "mongoose": "^4.11.11",
+    "mongoose-unique-validator": "^1.0.6",
+    "socket.io": "^2.0.3",
+    "socketio-auth": "^0.1.0"
+  }
+}
